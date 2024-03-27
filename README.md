@@ -1,5 +1,5 @@
 - 👋 Hi there, I am Vishal Goswami- aka evilmyth01
-- 🌱 I’m currently learning web development.
+- 🌱 I’m a Full Stack Developer.
 - 💞️ I can collaborate in web development hackathons and competitions.
 
 <!---
